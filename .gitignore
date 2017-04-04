@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+.idea/
+polls_venv/
+migrations/
+db.sqlite3
